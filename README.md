@@ -1,5 +1,3 @@
 # DA_Portfolio
 
-Tableau Dashboards
-
-Python Coding
+Portfolio for Data Analyst, BI Analyst positions.
